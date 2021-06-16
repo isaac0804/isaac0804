@@ -1,3 +1,4 @@
+# Profile
 - 👋 Hi, I’m @isaac-yong0804
 - 👀 I’m interested in Mathematics, Physics, and obviously programming.
 - 🌱 I’m currently learning 
@@ -7,6 +8,28 @@
 - 📫 How to reach me:
   - Email: isaacyong0804@gmail.com
 
+# Achievements 
+## Mathematical Olympiad
+- 2021
+  - SASMO online - Gold Medal
+- 2020
+  - AIMO online - Silver Medal 
+  - DOKA online - High Distiction
+  - SASMO online - Silver Medal
+- 2019 
+  - IJMO Malaysia - Silver Medal
+  - AIMO Bangkok - Silver Medal
+- 2018   
+  - Get into BIMO 2018 - (top 50 students)
+- 2017 
+  - AIMO 2017 Malaysia - Bronze Medal
+## Innovation Competition
+- 2019
+  - Geekathon 2019 National Champion
+  - ITEX 2019 Silver Medal
+  - KLESF 2019 Silver Medal
+## Programming
+- Microbit Competition 2020 National Champion
 <!---
 isaac-yong0804/isaac-yong0804 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
