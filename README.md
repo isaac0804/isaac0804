@@ -11,14 +11,15 @@
 # Achievements 
 ## Mathematical Olympiad
 - 2021
+  - AIMO online Final - Silver Medal
   - SASMO online - Gold Medal
 - 2020
-  - AIMO online - Silver Medal 
+  - AIMO Final online - Silver Medal 
   - DOKA online - High Distiction
   - SASMO online - Silver Medal
 - 2019 
   - IJMO Malaysia - Silver Medal
-  - AIMO Bangkok - Silver Medal
+  - AIMO Final Bangkok - Silver Medal
 - 2018   
   - Get into BIMO 2018 - (top 50 students)
 - 2017 
