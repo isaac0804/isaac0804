@@ -1,5 +1,5 @@
 # Profile
-- 👋 Hi, I’m @isaac-yong0804
+- 👋 Hi, I’m Isaac Yong.
 - 👀 I’m interested in Mathematics, Physics, and obviously programming.
 - 🌱 I’m currently learning 
   - Concepts:  Generative Adversarial Network(GAN), Simultaneous Localization and Mapping(SLAM).
