@@ -27,6 +27,7 @@
   - AIMO 2017 Malaysia - Bronze Medal
 ## Innovation Competition
 - 2021
+  - Global Nasa Space Apps Challenge Top 10 - Best use of Technology
   - Sarawak Nasa Space Apps Challenge - Champion
   - Mobile App Hackathon - First Runner Up
 - 2019
