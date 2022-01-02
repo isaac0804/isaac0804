@@ -3,7 +3,7 @@
 - 👀 I’m interested in Mathematics, Physics, and obviously programming.
 - 🌱 I’m currently learning 
   - Concepts:  Generative Adversarial Network(GAN), Simultaneous Localization and Mapping(SLAM).
-  - Languages: Tensorflow, Flutter, C++
+  - Languages: Python, Pytorch, Flutter, C++, Tensorflow
 - 💞️ I’m looking to collaborate on ANYTHING THAT SPARKS MY INTEREST.
 - 📫 How to reach me:
   - Email: isaacyong0804@gmail.com
